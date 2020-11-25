@@ -1,6 +1,6 @@
 ### Hi there
 
-Welcome to `Magenius.Team` <img align="middle" src="https://raw.githubusercontent.com/Den4ik/Den4ik/main/logo32x32.png" width="32" />
+<img align="left" src="https://raw.githubusercontent.com/Den4ik/Den4ik/main/logo32x32.png" width="32"/> Welcome to **Magenius.Team**
 
 ---
 
