@@ -46,8 +46,7 @@ In the past year alone, I made **800+ contributions** across various repositorie
 
 <div align="center">
 
-<image-card alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Den4ik&theme=radical" ></image-card>
-
-<image-card alt="Stats Card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Den4ik&theme=radical" ></image-card>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Den4ik&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Den4ik&theme=radical)
 
 </div>
