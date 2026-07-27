@@ -32,3 +32,33 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Den4ik/Den4ik/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/Den4ik/Den4ik/main/profile-summary-card-output/midnight_purple/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Den4ik/Den4ik/main/profile-summary-card-output/midnight_purple/4-productive-time.svg)
+```
+
+    
